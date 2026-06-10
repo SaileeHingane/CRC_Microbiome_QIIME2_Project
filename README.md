@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project investigates microbial community differences among colorectal cancer patients using 16S rRNA amplicon sequencing data.
+This project investigates microbial community differences among colorectal cancer (CRC) patients using 16S rRNA amplicon sequencing data.
 
 The workflow was performed using QIIME2 (2026.4) and DADA2.
 
