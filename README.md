@@ -57,10 +57,8 @@ These results suggest distinct microbial community structures between fecal, muc
 ## Repository Structure
 
 * metadata/
-* notebooks/
 * results/
-* docs/
-* taxonomy_status.md
+* notebooks/
 
 ## Future Work
 
