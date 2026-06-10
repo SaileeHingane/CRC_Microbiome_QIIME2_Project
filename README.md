@@ -30,6 +30,9 @@ The workflow was performed using QIIME2 (2026.4) and DADA2.
 8. PERMANOVA statistical testing
 9. Taxonomic classification (in progress)
 
+View .qzv files on QIIME2 VIEW https://view.qiime2.org/ 
+View tree.nwk file on ITOL tree https://itol.embl.de/
+
 ## Main Results
 
 ### DADA2 Output
