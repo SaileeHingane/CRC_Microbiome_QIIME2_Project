@@ -62,7 +62,7 @@ These results suggest distinct microbial community structures between fecal, muc
 
 * metadata/
 * results/
-* notebooks/
+* Jupyter notebook/ Amplicon_colorectal_analysis_Version1.ipynb
 
 ## NOTE 
 Taxonomic Classification (Current Status)
