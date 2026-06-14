@@ -2,6 +2,12 @@
 16S rRNA microbiome analysis of colorectal cancer samples using QIIME2 and DADA2.
 # Colorectal Cancer Microbiome Analysis using QIIME2
 
+## Computational Environment
+Operating System: Ubuntu (WSL2)
+Environment Manager: Miniconda
+Microbiome Analysis Platform: QIIME 2 (2026.4)
+Interactive Analysis: Jupyter Notebook
+
 ## Project Overview
 
 This project investigates microbial community differences among colorectal cancer (CRC) patients using 16S rRNA amplicon sequencing data.
