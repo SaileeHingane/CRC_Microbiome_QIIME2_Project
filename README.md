@@ -48,8 +48,8 @@ View tree.nwk file on ITOL tree https://itol.embl.de/
 ### DADA2 Output
 
 * Samples analyzed: 18
-* ASVs identified: 1,690
-* Total observations: 109,549
+* ASVs identified: 1,223
+* Total observations: 1,070,648
 
 ### Alpha Diversity
 
@@ -61,9 +61,8 @@ PERMANOVA analyses revealed significant differences in microbial community compo
 
 | Metric             | P-value |
 | ------------------ | ------- |
-| Bray-Curtis        | 0.013   |
-| Jaccard            | 0.004   |
-| Unweighted UniFrac | 0.001   |
+| Weighted UniFrac   | 0.012  |
+| Unweighted UniFrac | 0.002   |
 
 These results suggest distinct microbial community structures between fecal, mucosal, and tumor-associated samples.
 
