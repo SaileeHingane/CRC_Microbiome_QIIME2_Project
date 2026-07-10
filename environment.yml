@@ -1,0 +1,17 @@
+name: qiime2-amplicon-2026.4
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.12
+  - qiime2=2026.4
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - biom-format
+
+  Web-server: Galaxy Europe
