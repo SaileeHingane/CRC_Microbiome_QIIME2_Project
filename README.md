@@ -37,7 +37,14 @@ The workflow was performed using QIIME2 (2026.4) and DADA2.
 6. Alpha diversity analysis
 7. Beta diversity analysis
 8. PERMANOVA statistical testing
-9. Taxonomic classification (in progress)
+9. Taxonomic classification
+10. ANCOM (Feature level)
+11. ANCOM (Genus level)
+12. Relative abundance analysis
+13. Top 20 dominant genera
+14. Top 10 genera by sample type
+15. Heatmap visualization
+16. Biological annotation using Disbiome
 
 View .qzv files on QIIME2 VIEW https://view.qiime2.org/ 
 
