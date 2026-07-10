@@ -73,12 +73,6 @@ PERMANOVA analyses revealed significant differences in microbial community compo
 
 These results suggest distinct microbial community structures between fecal, mucosal, and tumor-associated samples.
 
-## Repository Structure
-
-* metadata/
-* results/
-* Jupyter notebook/ Amplicon_colorectal_analysis_Version1.ipynb
-
 ## Major Findings
 
 - Distinct microbial communities were observed across fecal, mucosal, and tumor samples.
@@ -93,6 +87,14 @@ These results suggest distinct microbial community structures between fecal, muc
   - Blautia
 - Differential abundance analysis identified taxa that significantly varied between sample types.
 - Biological annotation demonstrated that many dominant genera have previously reported associations with colorectal cancer.
+
+  ## Repository Structure
+
+* metadata/
+* results/
+* final result table/
+* figures/
+* Jupyter notebook/ Amplicon_colorectal_analysis_Version1.ipynb
 
 
 
