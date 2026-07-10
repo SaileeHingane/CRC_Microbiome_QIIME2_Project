@@ -40,7 +40,7 @@ The workflow was performed using QIIME2 (2026.4) and DADA2.
 9. Taxonomic classification
 10. ANCOM (Feature level)
 11. ANCOM (Genus level)
-12. Relative abundance analysis
+12. Genus-level abundance profiling
 13. Top 20 dominant genera
 14. Top 10 genera by sample type
 15. Heatmap visualization
