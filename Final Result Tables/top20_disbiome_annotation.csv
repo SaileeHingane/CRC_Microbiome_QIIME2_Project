@@ -1,0 +1,23 @@
+Genus,Feces,Mucosa,Tumor,Overall,Genus_Normalized,CRC_Studies,Elevated,Reduced,Sample_Types,Methods,Publications
+Bacteroides,5539.833333333333,19022.166666666668,22945.33333333333,15835.777777777776,Bacteroides,9,3,6,"Faeces, Tissue biopsie","16S rDNA pyrosequencing, 16S rRNA pyrosequencing, 16S rRNA sequencing, qPCR",9
+Faecalibacterium,7696.833333333333,3982.6666666666665,3450.0,5043.166666666667,Faecalibacterium,5,0,5,"Faeces, Rectal swab, Tissue biopsie","16S rDNA pyrosequencing, 16S rRNA sequencing",4
+[Ruminococcus]_torques_group,1626.8333333333333,4511.833333333333,7848.166666666667,4662.277777777777,Ruminococcus,5,3,2,"Faeces, Tissue biopsie","16S rRNA sequencing, Metagenomic sequencing",4
+[Ruminococcus]_torques_group,1626.8333333333333,4511.833333333333,7848.166666666667,4662.277777777777,Ruminococcus,5,3,2,"Faeces, Tissue biopsie","16S rRNA sequencing, Metagenomic sequencing",4
+Escherichia-Shigella,1917.5,5104.5,5870.833333333333,4297.61111111111,Escherichia,2,2,0,"Faeces, Tissue biopsie","16S rRNA pyrosequencing, 16S rRNA sequencing",2
+Prevotella,4934.333333333333,4757.333333333333,2704.333333333333,4132.0,Prevotella,5,4,1,"Faeces, Oral swab, Tissue biopsie","16S rRNA sequencing, qPCR",5
+Klebsiella,1374.0,2398.6666666666665,2538.6666666666665,2103.777777777778,Klebsiella,3,1,2,"Rectal swab, Tissue biopsie",16S rRNA sequencing,2
+Fusobacterium,41.0,2798.6666666666665,2333.333333333333,1724.3333333333333,Fusobacterium,18,18,0,"Faeces, Rectal swab, Tissue biopsie","16S rDNA pyrosequencing, 16S rRNA sequencing, qPCR",15
+[Ruminococcus]_gnavus_group,106.0,2863.1666666666665,1607.6666666666667,1525.611111111111,Ruminococcus,5,3,2,"Faeces, Tissue biopsie","16S rRNA sequencing, Metagenomic sequencing",4
+[Ruminococcus]_gnavus_group,106.0,2863.1666666666665,1607.6666666666667,1525.611111111111,Ruminococcus,5,3,2,"Faeces, Tissue biopsie","16S rRNA sequencing, Metagenomic sequencing",4
+Clostridium_sensu_stricto_1,567.0,2800.833333333333,1139.5,1502.4444444444443,Clostridium,0,0,0,None,None,0
+Blautia,3565.333333333333,302.0,389.0,1418.7777777777776,Blautia,2,0,2,"Rectal swab, Tissue biopsie",16S rRNA sequencing,2
+Streptococcus,1484.6666666666667,643.8333333333334,1707.3333333333333,1278.611111111111,Streptococcus,10,7,3,"Faeces, Oral swab, Tissue biopsie","16S rRNA pyrosequencing, 16S rRNA sequencing",9
+Holdemanella,485.6666666666667,1161.1666666666667,1770.0,1138.9444444444446,Holdemanella,0,0,0,None,None,0
+Alloprevotella,340.1666666666667,1689.3333333333333,622.1666666666666,883.8888888888888,Alloprevotella,1,0,1,Oral swab,16S rRNA sequencing,1
+Subdoligranulum,2019.0,329.3333333333333,250.16666666666663,866.1666666666666,Subdoligranulum,0,0,0,None,None,0
+Sutterella,61.5,1080.0,1185.5,775.6666666666666,Sutterella,1,0,1,Tissue biopsie,16S rRNA sequencing,1
+Haemophilus,89.5,445.3333333333333,1738.8333333333333,757.8888888888888,Haemophilus,1,0,1,Oral swab,16S rRNA sequencing,1
+Akkermansia,1916.0,41.16666666666666,4.5,653.8888888888889,Akkermansia,2,1,1,"Faeces, Tissue biopsie",16S rRNA sequencing,2
+Roseburia,579.3333333333334,693.5,618.0,630.2777777777778,Roseburia,3,2,1,"Faeces, Tissue biopsie","16S rRNA pyrosequencing, 16S rRNA sequencing",3
+Dorea,299.1666666666667,634.1666666666666,809.1666666666666,580.8333333333334,Dorea,1,0,1,Tissue biopsie,16S rRNA sequencing,1
+Parabacteroides,633.3333333333334,526.0,441.8333333333333,533.7222222222223,Parabacteroides,4,0,4,"Faeces, Tissue biopsie",16S rRNA sequencing,4
