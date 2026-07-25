@@ -73,7 +73,7 @@ PERMANOVA analyses revealed significant differences in microbial community compo
 
 These results suggest distinct microbial community structures between fecal, mucosal, and tumor-associated samples.
 
-## Major Findings
+## Major Findings (refer attached jupyter notebook)
 
 - Distinct microbial communities were observed across fecal, mucosal, and tumor samples.
 - Dominant genera included:
