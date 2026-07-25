@@ -4,7 +4,7 @@
 
 ## Computational Environment
 Operating System: Ubuntu (WSL2)
-
+ 
 Environment Manager: Miniconda
 
 Microbiome Analysis Platform: QIIME 2 (2026.4)
