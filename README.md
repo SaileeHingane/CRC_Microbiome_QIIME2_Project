@@ -91,6 +91,7 @@ These results suggest distinct microbial community structures between fecal, muc
 * Figures/
 * Jupyter notebook/ Amplicon_colorectal_analysis_Version1.ipynb
 
+## Acknowledgments
 
+This project was conducted using QIIME 2 (2026.4) for 16S rRNA amplicon data analysis. Publicly available sequencing datasets were obtained from the NCBI Sequence Read Archive (SRA), and taxonomic classification was performed using the SILVA 138.99 reference database. We acknowledge the developers and maintainers of these open-source resources for making this analysis possible.
 
-  
