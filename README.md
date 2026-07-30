@@ -75,18 +75,13 @@ These results suggest distinct microbial community structures between fecal, muc
 
 ## Major Findings (refer attached jupyter notebook)
 
-- Distinct microbial communities were observed across fecal, mucosal, and tumor samples.
-- Dominant genera included:
-  - Bacteroides
-  - Faecalibacterium
-  - Prevotella
-  - Fusobacterium
-  - Escherichia-Shigella
-  - Klebsiella
-  - Akkermansia
-  - Blautia
-- Differential abundance analysis identified taxa that significantly varied between sample types.
-- Biological annotation demonstrated that many dominant genera have previously reported associations with colorectal cancer.
+### Results Summary
+- Processed matched fecal, mucosal, and tumor 16S rRNA sequencing datasets from colorectal cancer patients using a reproducible QIIME 2 analysis workflow.
+- Generated high-quality ASVs using DADA2 followed by taxonomic classification with the SILVA reference database.
+- Taxonomic profiling identified distinct microbial community compositions across the three sample types, with Bacteroides, Faecalibacterium, Prevotella, Escherichia-Shigella, Ruminococcus,    Fusobacterium, Klebsiella, Blautia, Akkermansia, and Roseburia among the dominant genera.
+- ANCOM differential abundance analysis identified Marvinbryantia (Family: Lachnospiraceae) as the only significantly different ASV across sample groups, while Ruminococcus was the only significantly differentially abundant genus and was enriched in fecal samples compared with mucosal and tumor tissues.
+- Comparative abundance analysis highlighted microbial composition differences between fecal, mucosal, and tumor samples through genus-level abundance tables, bar plots, and heatmaps.
+- Biological annotation using the Disbiome colorectal cancer database showed that most dominant genera have previously reported associations with colorectal cancer, particularly Fusobacterium, Bacteroides, Faecalibacterium, Prevotella, and Streptococcus.
 
   ## Repository Structure
 
